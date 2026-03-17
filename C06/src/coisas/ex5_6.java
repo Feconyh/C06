@@ -1,3 +1,5 @@
+package coisas;
+
 import java.util.Scanner;
 import java.util.Random;
 
