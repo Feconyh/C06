@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class ex1_2 {
     public static void main(String[] args) {
         int lanche = 0;
         Scanner entrada = new Scanner(System.in);
@@ -9,10 +9,11 @@ public class Main {
             lanche += numero;
         }
         entrada.close();
-        int media = lanche/3;
+        float media = (float)lanche/3;
 
         System.out.println("Consumido: " + lanche);
         System.out.println("Media: " + media);
 
     }
 }
+

@@ -8,7 +8,6 @@ public class ex4 {
         entrada.close();
 
         switch (numAluno) {
-            case 10,15:
             case 20:
                 System.out.println("Sala I-16");
                 break;

@@ -7,11 +7,6 @@ public class ex5_6 {
         Random rand = new Random();
         int x;
         int y;
-        for(int i = 0; i < 10; i++){
-            x = rand.nextInt(4)-1;
-            System.out.println(x);
-        }
-        /*
         do{
             x = rand.nextInt(10)+1;
             System.out.println("Qual o numero gerado?");
@@ -24,6 +19,5 @@ public class ex5_6 {
             continue;
         }while(y != x);
         System.out.println("Ganhou");
-         */
     }
 }
