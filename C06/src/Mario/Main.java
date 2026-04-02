@@ -1,6 +1,6 @@
 package Mario;
 
-public class MainMario {
+public class Main {
     public static void main(String[] args) {
         Piloto p1 = new Piloto();
         Kart k1 = new Kart();

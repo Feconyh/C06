@@ -1,4 +1,4 @@
-package Cantina;
+package Banda;
 
 public class Empresario {
     String nome;

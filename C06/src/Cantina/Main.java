@@ -1,6 +1,6 @@
 package Cantina;
 
-public class MainLoja {
+public class Main {
     public static void main(String[] args) {
         Cantina c1 = new Cantina();
         Salgado s1 = new Salgado();

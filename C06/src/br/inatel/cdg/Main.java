@@ -10,7 +10,7 @@ public class Main {
 
         c1.cliente.setNome("Nomi");
         System.out.println(c1.cliente.getNome());
-        
+
         c1.cliente.setCpf(9090);
         System.out.println(c1.cliente.getCpf());
 
